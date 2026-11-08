@@ -1,0 +1,66 @@
+{
+  "admin": null,
+  "settings": {
+    "id": "default",
+    "platformName": "BILAL RAO LIVE",
+    "tagline": "Official Real-Time Live Broadcasting Hub",
+    "chatEnabled": true,
+    "questionsEnabled": true,
+    "reactionsEnabled": true,
+    "slowModeSeconds": 2,
+    "maxMessageLength": 280,
+    "notificationEmail": "bilal@bilalrao.live",
+    "updatedAt": "2026-11-08T10:08:20.068Z"
+  },
+  "liveStatus": {
+    "isLive": false,
+    "activeSessionId": null,
+    "title": "Welcome to Bilal Rao Live",
+    "description": "Stay tuned for insightful discussions, live tech broadcasts, and exclusive interactive streams.",
+    "thumbnailUrl": "/src/assets/images/studio_standby_1794131977087.jpg",
+    "startedAt": null,
+    "currentViewers": 0,
+    "updatedAt": "2026-11-08T10:08:20.068Z"
+  },
+  "sessions": [
+    {
+      "id": "sess_archive_01",
+      "title": "The Future of Real-Time Web & AI Systems",
+      "description": "Deep dive into full-stack architecture, ultra-low latency streaming, and scalable creator infrastructure.",
+      "thumbnailUrl": "/src/assets/images/broadcast_highlight_1794131976835.jpg",
+      "status": "ended",
+      "startedAt": "2026-11-05T10:08:20.068Z",
+      "endedAt": "2026-11-05T11:23:20.068Z",
+      "durationSeconds": 4500,
+      "peakViewers": 1420,
+      "totalComments": 890,
+      "totalQuestions": 74,
+      "totalReactions": 3820
+    },
+    {
+      "id": "sess_archive_02",
+      "title": "Ask Me Anything: Tech, Career, and Content Creation",
+      "description": "Live interactive Q&A where we answered over 50 audience questions about modern software development.",
+      "thumbnailUrl": "/src/assets/images/studio_standby_1794131977087.jpg",
+      "status": "ended",
+      "startedAt": "2026-11-01T10:08:20.068Z",
+      "endedAt": "2026-11-01T11:08:20.068Z",
+      "durationSeconds": 3600,
+      "peakViewers": 980,
+      "totalComments": 610,
+      "totalQuestions": 52,
+      "totalReactions": 2450
+    }
+  ],
+  "comments": [],
+  "questions": [],
+  "reactions": {
+    "heart": 0,
+    "fire": 0,
+    "clap": 0,
+    "laugh": 0,
+    "hearteyes": 0,
+    "thumbsup": 0
+  },
+  "blockedViewers": []
+}

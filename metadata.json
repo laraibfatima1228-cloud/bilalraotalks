@@ -1,0 +1,6 @@
+{
+  "name": "BILAL RAO LIVE",
+  "description": "Premium real-time live streaming platform for Bilal Rao. Features real mobile camera broadcasting, instant audience viewer sync, live chat, questions, and reactions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
